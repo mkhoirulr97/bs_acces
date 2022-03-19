@@ -1,5 +1,5 @@
 # BS Access
-Project Akhir semester 4 
+Project Akhir semester 4 <br>
 BS Access atau Booking Studio Access merupakan aplikasi berbasis mobile dan web yang berguna untuk memesan atau menyewa studio foto maupun studio musik yang ada di daerah Jember
 
 ---------------------------------------
@@ -9,7 +9,7 @@ Muhammmad Fahmi Ubaidilah    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E41200038 <br>
 Annisa Lailla Rahmawati   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E41200097 <br>
 Muhammad Khoirul Rosikin    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E41200320 <br>
 Qori Nur Dianali &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E41200122 <br>
-Cindy Oktaviani Eka Prasasti  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E41200289
+Cindy Oktaviani Eka Prasasti  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E41200289
 ---------------------------------------
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TIF-A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 ---------------------------------------
