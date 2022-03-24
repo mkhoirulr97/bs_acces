@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1648131269355,
+      "title": "Wakajzee Studio",
+      "body": "We Are Wakajzee\nDigital Creative Studio.\nKami memiliki berbagai pengalaman, keahlian, untuk membuat dan menerapkan ide kreatif dengan keahlian unik kami yang ditetapkan dalam strategi, desain, dan teknologi, serta keterampilan media sosial yang luar biasa."
+    },
+    {
+      "userId": 1,
+      "id": 1648135177184,
+      "title": "Klanrock Studio",
+      "body": "studio kami melayani hanya untuk pemotretan"
+    }
+  ]
+}
